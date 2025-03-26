@@ -1,12 +1,7 @@
 # Pokedex - iOS 宝可梦图鉴应用
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-26 at 20 43 26](https://github.com/user-attachments/assets/87495665-7f27-4a38-bfe4-e72432cc4f1c)
-
+<img src="https://github.com/user-attachments/assets/87495665-7f27-4a38-bfe4-e72432cc4f1c" width="250" height="auto">
 
 ⸻
-
-Pokedex - iOS Pokémon Pokédex App
-
-A modern Pokémon Pokédex app developed using SwiftUI, showcasing best practices and advanced technical features in iOS development.
 
 Technical Highlights
 
@@ -102,7 +97,6 @@ Contributing Guidelines
 Feel free to submit Issues and Pull Requests to help improve this project.
 
 ⸻
-
 ## 技术亮点
 
 ### 1. 现代化架构设计
@@ -202,10 +196,6 @@ open Pokedex.xcodeproj
 
 ⸻
 
-Pokedex - iOS ポケモン図鑑アプリ
-
-SwiftUI を使用して開発されたモダンなポケモン図鑑アプリで、iOS 開発におけるベストプラクティスと高度な技術的特徴を紹介します。
-
 技術的なハイライト
 
 1. モダンなアーキテクチャ設計
@@ -300,5 +290,4 @@ open Pokedex.xcodeproj
 このプロジェクトを改善するために Issue や Pull Request を自由に提出してください。
 
 ⸻
-
 
